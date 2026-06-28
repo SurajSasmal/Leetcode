@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SurajSasmal/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/SurajSasmal/Leetcode/tree/main/0027-remove-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,4 +17,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/SurajSasmal/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SurajSasmal/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/SurajSasmal/Leetcode/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
