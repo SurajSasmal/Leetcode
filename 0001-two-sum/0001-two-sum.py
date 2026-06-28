@@ -6,5 +6,4 @@ class Solution:
                 if target == nums[i] + nums[j]:
                     return i, j
                 else:
-                    j = nums[j+1]
-        
+                    j = j + 1
