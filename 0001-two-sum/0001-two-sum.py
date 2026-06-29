@@ -5,5 +5,3 @@ class Solution:
             for j in range(i):
                 if nums[j] + nums[i] == target:
                     return j , i
-                else:
-                    j = j + 1
