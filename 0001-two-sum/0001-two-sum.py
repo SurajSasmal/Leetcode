@@ -3,7 +3,7 @@ class Solution:
         n = len(nums)
         for i in range(n):
             for j in range(i):
-                if target == nums[i] + nums[j]:
-                    return i, j
+                if nums[j] + nums[i] == target:
+                    return j , i
                 else:
                     j = j + 1
