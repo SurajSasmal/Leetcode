@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/SurajSasmal/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/SurajSasmal/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajSasmal/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1952-three-divisors](https://github.com/SurajSasmal/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/SurajSasmal/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SurajSasmal/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Two Pointers
@@ -65,10 +66,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/SurajSasmal/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/SurajSasmal/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/SurajSasmal/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/SurajSasmal/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
