@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/SurajSasmal/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/SurajSasmal/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/SurajSasmal/Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/SurajSasmal/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/SurajSasmal/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajSasmal/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurajSasmal/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -121,4 +122,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/SurajSasmal/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/SurajSasmal/Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/SurajSasmal/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
