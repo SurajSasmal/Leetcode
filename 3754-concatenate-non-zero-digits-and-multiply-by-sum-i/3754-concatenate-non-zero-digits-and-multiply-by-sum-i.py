@@ -1,14 +1,19 @@
 class Solution:
     def sumAndMultiply(self, n: int) -> int:
+
         x = 0
-        sum = 0
-        place = 1
+        p = 1
+        total = 0
 
         while(n != 0):
-            rem = n % 10
+            rem = n % 10 
             if rem != 0:
-                x = rem * place + x
-                place = place * 10
-                sum = sum + rem
+                x = x + rem * p
+                total = total + rem
+                p = p * 10
             n = n // 10
-        return x * sum
+        result = x * total
+
+        return result 
+
+
