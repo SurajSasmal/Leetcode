@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/SurajSasmal/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/SurajSasmal/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/SurajSasmal/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0204-count-primes](https://github.com/SurajSasmal/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/SurajSasmal/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/SurajSasmal/Leetcode/tree/main/0326-power-of-three/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/SurajSasmal/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajSasmal/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/SurajSasmal/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/SurajSasmal/Leetcode/tree/main/0704-binary-search/) | Easy |
