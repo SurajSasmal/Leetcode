@@ -3,11 +3,13 @@ class Solution:
         n = len(candies)
 
         maximum = max(candies)
-        result = [0] * n
+        # result = [0] * n
 
         for i in range(n):
             if candies[i] + extraCandies >= maximum:
-                result[i] = True
+                # result[i] = True
+                candies[i] = True
             else:
-                result[i] = False
-        return result
+                # result[i] = False
+                candies[i] = False
+        return candies
