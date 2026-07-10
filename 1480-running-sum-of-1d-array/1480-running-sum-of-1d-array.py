@@ -3,8 +3,8 @@ class Solution:
         n = len(nums)
         run = [0] * n
         for i in range(n):
-            sum = 0
+            total = 0
             for j in range(i+1):
-                sum = sum + nums[j]
-            run[i] = sum
+                total = total + nums[j]
+            run[i] = total
         return run
