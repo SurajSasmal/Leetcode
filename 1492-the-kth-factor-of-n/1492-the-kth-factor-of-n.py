@@ -8,8 +8,11 @@ class Solution:
         
         m = len(lis)
 
-        for j in range(m):
-            if j == k -1:
-                return lis[k-1]
+        # for j in range(m):
+        #     if j == k -1:
+        #         return lis[k-1]
+
+        if m >= k:
+            return lis[k - 1]
 
         return -1
