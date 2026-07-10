@@ -8,10 +8,6 @@ class Solution:
         
         m = len(factors)
 
-        # for j in range(m):
-        #     if j == k -1:
-        #         return lis[k-1]
-
         if m >= k:
             return factors[k - 1]
 
