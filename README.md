@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurajSasmal/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurajSasmal/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajSasmal/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/SurajSasmal/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SurajSasmal/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/SurajSasmal/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SurajSasmal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/SurajSasmal/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/SurajSasmal/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SurajSasmal/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
