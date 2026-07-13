@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/SurajSasmal/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajSasmal/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurajSasmal/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurajSasmal/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajSasmal/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/SurajSasmal/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/SurajSasmal/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/SurajSasmal/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SurajSasmal/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajSasmal/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajSasmal/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/SurajSasmal/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/SurajSasmal/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajSasmal/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/SurajSasmal/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/SurajSasmal/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurajSasmal/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -98,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/SurajSasmal/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/SurajSasmal/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SurajSasmal/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajSasmal/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
