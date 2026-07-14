@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/SurajSasmal/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/SurajSasmal/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/SurajSasmal/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/SurajSasmal/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SurajSasmal/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/SurajSasmal/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajSasmal/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/SurajSasmal/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/SurajSasmal/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SurajSasmal/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0414-third-maximum-number](https://github.com/SurajSasmal/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajSasmal/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Enumeration
