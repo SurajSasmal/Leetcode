@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/SurajSasmal/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/SurajSasmal/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/SurajSasmal/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/SurajSasmal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/SurajSasmal/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/SurajSasmal/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SurajSasmal/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/SurajSasmal/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/SurajSasmal/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SurajSasmal/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/SurajSasmal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajSasmal/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/SurajSasmal/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0204-count-primes](https://github.com/SurajSasmal/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/SurajSasmal/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/SurajSasmal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/SurajSasmal/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/SurajSasmal/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SurajSasmal/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/SurajSasmal/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajSasmal/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/SurajSasmal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/SurajSasmal/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/SurajSasmal/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -104,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/SurajSasmal/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/SurajSasmal/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SurajSasmal/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/SurajSasmal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/SurajSasmal/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajSasmal/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -154,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/SurajSasmal/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/SurajSasmal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/SurajSasmal/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SurajSasmal/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Simulation
