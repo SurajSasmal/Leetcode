@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/SurajSasmal/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/SurajSasmal/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/SurajSasmal/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
