@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/SurajSasmal/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/SurajSasmal/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SurajSasmal/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SurajSasmal/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SurajSasmal/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SurajSasmal/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/SurajSasmal/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/SurajSasmal/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/SurajSasmal/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajSasmal/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1952-three-divisors](https://github.com/SurajSasmal/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/SurajSasmal/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SurajSasmal/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1389-create-target-array-in-the-given-order](https://github.com/SurajSasmal/Leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/SurajSasmal/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SurajSasmal/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
