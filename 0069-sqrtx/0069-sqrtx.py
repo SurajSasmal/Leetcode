@@ -5,8 +5,6 @@ class Solution:
 
         right = x
 
-        ans = 1
-
         while left <= right:
             mid = (left + right) // 2
 
@@ -15,6 +13,5 @@ class Solution:
             if midSq > x:
                 right = mid - 1
             else:
-                ans = mid
                 left = mid + 1
         return right
