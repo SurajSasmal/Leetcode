@@ -1,9 +1,11 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        
+        # this problem will divide in to two parts 
+        # first ocuurance 
+        # last ocurrance 
+
         left = 0
         right = len(nums) - 1
-
         first = -1
 
         while left <= right:
@@ -11,12 +13,11 @@ class Solution:
 
             if nums[mid] == target:
                 first = mid 
-                right = mid - 1
+                right = right - 1
             elif nums[mid] < target:
                 left = mid + 1
             else:
                 right = mid - 1
-
         
         left = 0
         right = len(nums) - 1
@@ -26,7 +27,7 @@ class Solution:
             mid = (left + right) // 2
 
             if nums[mid] == target:
-                last = mid
+                last = mid 
                 left = mid + 1
             elif nums[mid] < target:
                 left = mid + 1
