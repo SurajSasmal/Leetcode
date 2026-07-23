@@ -10,10 +10,9 @@ class Solution:
 
             if mid % 2 == 1:
                 mid = mid - 1
-            
-            if nums[mid] == nums[mid + 1]:
+            if nums[mid] == nums[mid+1]:
                 left = mid + 2
             else:
                 right = mid 
-                
         return nums[left]
+
