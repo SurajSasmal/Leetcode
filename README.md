@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/SurajSasmal/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SurajSasmal/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SurajSasmal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SurajSasmal/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SurajSasmal/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/SurajSasmal/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SurajSasmal/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SurajSasmal/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SurajSasmal/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SurajSasmal/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/SurajSasmal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/SurajSasmal/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SurajSasmal/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SurajSasmal/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
