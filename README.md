@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/SurajSasmal/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SurajSasmal/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajSasmal/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/SurajSasmal/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/SurajSasmal/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/SurajSasmal/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/SurajSasmal/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -266,4 +267,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SurajSasmal/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/SurajSasmal/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
