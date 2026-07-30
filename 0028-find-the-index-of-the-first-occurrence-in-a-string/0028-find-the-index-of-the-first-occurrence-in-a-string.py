@@ -7,7 +7,6 @@ class Solution:
 
         for i in range(n - m + 1):
             for j in range(m):
-
                 if haystack[i + j] != needle[j]:
                     break
             else:
