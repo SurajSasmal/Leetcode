@@ -1,11 +1,11 @@
 class Solution:
     def defangIPaddr(self, address: str) -> str:
-
+        
         s = ""
 
-        for i in address:
-            if i == ".":
-                s += "[.]"
+        for ch in address:
+            if ch == '.':
+                s += '[.]'
             else:
-                s += i
+                s += ch
         return s
