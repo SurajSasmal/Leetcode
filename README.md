@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SurajSasmal/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/SurajSasmal/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SurajSasmal/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1844-replace-all-digits-with-characters](https://github.com/SurajSasmal/Leetcode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
