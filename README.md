@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SurajSasmal/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SurajSasmal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurajSasmal/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SurajSasmal/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SurajSasmal/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1844-replace-all-digits-with-characters](https://github.com/SurajSasmal/Leetcode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/SurajSasmal/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurajSasmal/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SurajSasmal/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
