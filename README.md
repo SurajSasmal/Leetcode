@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajSasmal/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/SurajSasmal/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/SurajSasmal/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SurajSasmal/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/SurajSasmal/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/SurajSasmal/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
