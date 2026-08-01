@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurajSasmal/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SurajSasmal/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SurajSasmal/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/SurajSasmal/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SurajSasmal/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurajSasmal/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SurajSasmal/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SurajSasmal/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/SurajSasmal/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
