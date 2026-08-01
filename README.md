@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/SurajSasmal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurajSasmal/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SurajSasmal/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/SurajSasmal/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SurajSasmal/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/SurajSasmal/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurajSasmal/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SurajSasmal/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/SurajSasmal/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajSasmal/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/SurajSasmal/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
