@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/SurajSasmal/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/SurajSasmal/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/SurajSasmal/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/SurajSasmal/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/SurajSasmal/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajSasmal/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurajSasmal/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/SurajSasmal/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/SurajSasmal/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SurajSasmal/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/SurajSasmal/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajSasmal/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurajSasmal/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1390-four-divisors](https://github.com/SurajSasmal/Leetcode/tree/main/1390-four-divisors/) | Medium |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajSasmal/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/SurajSasmal/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/SurajSasmal/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,4 +303,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/SurajSasmal/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/SurajSasmal/Leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
