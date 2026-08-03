@@ -14,5 +14,5 @@ class Solution:
                 answer = letters[mid]
                 right = mid - 1
             else:
-                left = left + 1
+                left = mid + 1
         return answer
