@@ -1,11 +1,15 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         
+        n = len(s)
+
         l = 0
-        s = s.lower()
+
         r = len(s) - 1
+        s = s.lower()
 
         while l < r:
+
             if not s[l].isalnum():
                 l = l + 1
                 continue
@@ -14,6 +18,6 @@ class Solution:
                 continue
             if s[l] != s[r]:
                 return False
-            l = l + 1
-            r = r - 1
+            l += 1
+            r -= 1
         return True
