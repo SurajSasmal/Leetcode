@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/SurajSasmal/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/SurajSasmal/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/SurajSasmal/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/SurajSasmal/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/SurajSasmal/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurajSasmal/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/SurajSasmal/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SurajSasmal/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/SurajSasmal/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/SurajSasmal/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0709-to-lower-case](https://github.com/SurajSasmal/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/SurajSasmal/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/SurajSasmal/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajSasmal/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/SurajSasmal/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/SurajSasmal/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/SurajSasmal/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Interactive
