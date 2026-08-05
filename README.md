@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/SurajSasmal/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/SurajSasmal/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/SurajSasmal/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/SurajSasmal/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajSasmal/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurajSasmal/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/SurajSasmal/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/SurajSasmal/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/SurajSasmal/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/SurajSasmal/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/SurajSasmal/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurajSasmal/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/SurajSasmal/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SurajSasmal/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/SurajSasmal/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/SurajSasmal/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajSasmal/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SurajSasmal/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
