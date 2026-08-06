@@ -24,5 +24,5 @@ class Solution:
                 m  = m // 10
             
             if multi % t == 0:
-                return m
+                return i
             
