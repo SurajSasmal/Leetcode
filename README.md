@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SurajSasmal/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SurajSasmal/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/SurajSasmal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/SurajSasmal/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/SurajSasmal/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/SurajSasmal/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SurajSasmal/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SurajSasmal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/SurajSasmal/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajSasmal/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/SurajSasmal/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/SurajSasmal/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/SurajSasmal/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/SurajSasmal/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/SurajSasmal/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
