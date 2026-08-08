@@ -3,10 +3,9 @@ class Solution:
         
         k = 0
 
-        n = len(nums)
-
-        for i in range(n):
+        for i in range(len(nums)):
             if nums[i] != val:
                 nums[k] = nums[i]
                 k += 1
         return k
+        
