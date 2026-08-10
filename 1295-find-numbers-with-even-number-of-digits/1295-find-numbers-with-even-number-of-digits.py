@@ -1,18 +1,16 @@
 class Solution:
     def findNumbers(self, nums: List[int]) -> int:
-        iscount = 0
+        
+        totalCount = 0
 
-        n = len(nums)
-
-        for i in range(n):
-            number = nums[i]
-
+        for num in nums:
             count = 0
 
-            while(number != 0):
-                rem = number % 10
+            while num != 0:
+                rem = num % 10
                 count += 1
-                number = number // 10
+                num = num // 10
             if count % 2 == 0:
-                iscount += 1
-        return iscount 
+                totalCount += 1
+        return totalCount 
+        
