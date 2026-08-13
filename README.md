@@ -351,4 +351,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SurajSasmal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/SurajSasmal/Leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
