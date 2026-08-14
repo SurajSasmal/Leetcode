@@ -1,18 +1,17 @@
 class Solution:
     def nextGreatestLetter(self, letters: List[str], target: str) -> str:
         
-        left = 0
+        l = 0
 
-        right = len(letters) - 1
+        r = len(letters) - 1
+        ans = letters[0]
 
-        answer = letters[0]
-
-        while left <= right:
-            mid = (left + right) // 2
+        while l <= r:
+            mid = (l + r) // 2
 
             if letters[mid] > target:
-                answer = letters[mid]
-                right = mid - 1
+                ans = letters[mid]
+                r = mid - 1
             else:
-                left = mid + 1
-        return answer
+                l = mid + 1
+        return ans
