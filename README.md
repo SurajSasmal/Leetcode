@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurajSasmal/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SurajSasmal/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SurajSasmal/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/SurajSasmal/Leetcode/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/SurajSasmal/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SurajSasmal/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/SurajSasmal/Leetcode/tree/main/2951-find-the-peaks/) | Easy |
