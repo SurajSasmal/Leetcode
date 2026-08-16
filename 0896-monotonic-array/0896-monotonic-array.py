@@ -23,11 +23,11 @@ class Solution:
                 isIncresing = False
                 break
         
-        k = 0
+        j = 0
         for i in range(1,n):
-            if nums[k] >= nums[i]:
+            if nums[j] >= nums[i]:
                 isDecresing = True
-                k += 1
+                j += 1
             else:
                 isDecresing = False
                 break
