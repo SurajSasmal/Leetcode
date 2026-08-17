@@ -9,9 +9,9 @@
 class Solution:
     def findInMountainArray(self, target: int, mountainArr: 'MountainArray') -> int:
         
+        n = mountainArr.length()
         l = 0
-
-        r = mountainArr.length() - 1 
+        r = n - 1 
 
         while l < r:
             mid = (l + r) // 2
@@ -36,7 +36,7 @@ class Solution:
                 r = mid - 1
 
         l = peak + 1
-        r = mountainArr.length() - 1
+        r = n - 1
 
         while l <= r:
             mid = (l + r) // 2
