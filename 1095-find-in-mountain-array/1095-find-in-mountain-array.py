@@ -37,7 +37,7 @@ class Solution:
                 r = mid - 1
         
         # right side search 
-        l = peak 
+        l = peak + 1
         r = n - 1
 
         while l <= r:
