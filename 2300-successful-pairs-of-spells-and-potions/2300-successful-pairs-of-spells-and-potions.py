@@ -3,24 +3,21 @@ class Solution:
         
         potions.sort()
 
+        n = len(potions)
         ans = []
-        m = len(potions)
 
         for spell in spells:
 
             required = (success + spell - 1) // spell
 
             l = 0
-            r = m
-
+            r = n
             while l < r:
                 mid = (l + r) // 2
 
                 if potions[mid] >= required:
-                    r = mid
+                    r = mid 
                 else:
                     l = mid + 1
-
-            ans.append(m - l)
-
-        return ans
+            ans.append(n - l)
+        return ans 
