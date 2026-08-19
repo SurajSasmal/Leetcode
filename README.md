@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/SurajSasmal/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/SurajSasmal/Leetcode/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/SurajSasmal/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/SurajSasmal/Leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SurajSasmal/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/SurajSasmal/Leetcode/tree/main/2951-find-the-peaks/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SurajSasmal/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/SurajSasmal/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/SurajSasmal/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurajSasmal/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/SurajSasmal/Leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurajSasmal/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/SurajSasmal/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SurajSasmal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/SurajSasmal/Leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajSasmal/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SurajSasmal/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SurajSasmal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/SurajSasmal/Leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/SurajSasmal/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/SurajSasmal/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SurajSasmal/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
