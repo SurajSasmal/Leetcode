@@ -15,7 +15,7 @@ class Solution:
                     right = mid - 1
                 else:
                     left = mid + 1
-            elif nums[left] > nums[mid]:
+            else:
                 if nums[mid] < target <= nums[right]:
                     left = mid + 1
                 else:
