@@ -1,33 +1,21 @@
 class Solution:
     def isMonotonic(self, nums: List[int]) -> bool:
         
-        
-        # nums1 = nums.copy()
-
-        # nums1.sort()
-
-        # if nums == nums1 or nums == nums1[::-1]:
-        #     return True
-        # return False
-
         isIncresing = True
-        isDecreasing = True 
+        isDecresing = True
 
         n = len(nums)
-        j = 0
+
         for i in range(1,n):
-            if nums[j] <= nums[i]:
-                isIncresing = True 
-                j += 1
+            if nums[i-1] <= nums[i]:
+                isIncresing = True
             else:
                 isIncresing = False
                 break
-        
-        j = 0
+
         for i in range(1,n):
-            if nums[j] >= nums[i]:
+            if nums[i - 1] >= nums[i]:
                 isDecresing = True
-                j += 1
             else:
                 isDecresing = False
                 break
