@@ -1,18 +1,15 @@
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
         
-        left = 0
+        l = 0
+        r = len(nums) - 1
 
-        right = len(nums) - 1
-
-        while left < right:
-            mid = (left + right) // 2
-
+        while l < r:
+            mid = (l + r) // 2
             if mid % 2 == 1:
-                mid = mid - 1
-            if nums[mid] == nums[mid+1]:
-                left = mid + 2
+                mid -= 1
+            if nums[mid] == nums[mid + 1]:
+                l = mid + 2
             else:
-                right = mid 
-        return nums[left]
-
+                r = mid 
+        return nums[l]
