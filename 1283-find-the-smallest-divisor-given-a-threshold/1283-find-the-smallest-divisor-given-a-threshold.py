@@ -3,7 +3,7 @@ class Solution:
         
         l = 1
         r = max(nums)
-        ans = 0
+        # ans = 0
         while l <= r:
             mid = (l + r) // 2
             total = 0
@@ -12,10 +12,10 @@ class Solution:
                 total += divisor 
 
             if total <= threshold:
-                ans = mid
+                # ans = mid
                 r = mid - 1
             elif total > threshold:
                 l = mid + 1
             else:
                 r = mid - 1
-        return ans
+        return r + 1
