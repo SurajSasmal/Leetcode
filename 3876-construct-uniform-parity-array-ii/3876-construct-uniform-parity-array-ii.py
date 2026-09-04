@@ -1,16 +1,14 @@
 class Solution:
     def uniformArray(self, nums1: list[int]) -> bool:
         
-        minOdd = float('inf')
+        minimum = min(nums1)
 
-        for num in nums1:
-            if num % 2 == 1:
-                minOdd = min(minOdd, num)
-        
-        if minOdd == float('inf'):
+        if minimum % 2 == 1:
             return True 
 
-        for num in nums1:
-            if num % 2 == 0 and num <= minOdd:
+        for x in nums1:
+            if x % 2 == 1:
                 return False
+        
         return True 
+        
