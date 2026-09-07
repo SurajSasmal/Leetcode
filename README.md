@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/SurajSasmal/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SurajSasmal/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SurajSasmal/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/SurajSasmal/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/SurajSasmal/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SurajSasmal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurajSasmal/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/SurajSasmal/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0724-find-pivot-index](https://github.com/SurajSasmal/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SurajSasmal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/SurajSasmal/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
